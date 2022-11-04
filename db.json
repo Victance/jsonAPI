@@ -23,6 +23,6 @@
     { "id": 1, "title": "Post 1", "description": "description", "content": "content", "userName": "John", "userSurname": "Johnson", "email":"email", "phone":"phone", "date": "01.01.2022", "country": "country", "region": "region" },
     { "id": 1, "title": "Post 1", "description": "description", "content": "content", "userName": "John", "userSurname": "Johnson", "email":"email", "phone":"phone", "date": "01.01.2022", "country": "country", "region": "region" },
     { "id": 1, "title": "Post 1", "description": "description", "content": "content", "userName": "John", "userSurname": "Johnson", "email":"email", "phone":"phone", "date": "01.01.2022", "country": "country", "region": "region" },
-    { "id": 1, "title": "Post 1", "description": "description", "content": "content", "userName": "John", "userSurname": "Johnson", "email":"email", "phone":"phone", "date": "01.01.2022", "country": "country", "region": "region" },
+    { "id": 1, "title": "Post 1", "description": "description", "content": "content", "userName": "John", "userSurname": "Johnson", "email":"email", "phone":"phone", "date": "01.01.2022", "country": "country", "region": "region" }
   ]
 }
